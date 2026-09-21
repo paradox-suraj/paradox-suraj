@@ -11,21 +11,20 @@
     "AI/LLM Integration (Vercel AI SDK, RAG)",<br>
     "WebAssembly, Web Crypto API & Solidity"<br>
   ],<br>
+  "flagship_projects": [<br>
+    "PathweaverAI (AI Learning Platform): Architected a 9-phase async pipeline (BullMQ/Redis), 30+ model PostgreSQL schema, and multi-provider LLM orchestration with AES-256-GCM encryption.",<br>
+    "AlgoJeet Pro (Coding Interview Prep): Engineered a local-first workbench with WebAssembly (Python), Web Workers (JS), and a sandboxed runner covering 3,350+ LeetCode problems."<br>
+  ],<br>
+  "other_notable_projects": [<br>
+    "ChainProof (Web3 Security): Built a privacy-focused file verification system using Solidity, viem, and Web Crypto API.",<br>
+    "Paradox ERP (Enterprise): Built an enterprise dashboard with database-level Row Level Security (RLS) and 30+ Vitest/Playwright tests."<br>
+  ],<br>
   "recent_wins": [<br>
     "Delivered 20+ client web projects end-to-end, from database schema to UI.",<br>
-    "Boosted client operational efficiency by 25% through custom software automation.",<br>
-    "Architected PathweaverAI: 9-phase async AI pipeline with multi-provider LLM orchestration and AES-256-GCM encryption.",<br>
-    "Engineered AlgoJeet Pro: Local-first coding prep platform with WebAssembly & Web Workers covering 3,350+ LeetCode problems."<br>
-  ],<br>
-  "featured_projects": [<br>
-    "ChainProof (Solidity/viem/wagmi file-integrity verifier)",<br>
-    "Paradox ERP (Enterprise dashboard with database-level RLS)",<br>
-    "CodeBlog Pro (Multi-author MDX publishing platform)",<br>
-    "Accessibility Auditor (Playwright + axe-core WCAG 2.2 scanner)"<br>
+    "Boosted client operational efficiency by 25% through custom software automation."<br>
   ],<br>
   "contact": "surajchauhansurya518@gmail.com"<br>
 }
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paradox.suraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/paradox_suraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sc644795@gmail.com) 
