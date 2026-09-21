@@ -1,5 +1,30 @@
 # 💫 About Me:
-{<br>  "engineer": "Suraj Chauhan",<br>  "status": "Available for full-time remote roles (40+ hrs/wk)",<br>  "expertise": [<br>    "Next.js 14 & React",<br>    "TypeScript & JavaScript (ES6+)",<br>    "Node.js & Serverless Architecture",<br>    "PostgreSQL & Prisma ORM",<br>    "Python & C++",<br>    "Client-Side Web Cryptography & Security"<br>  ],<br>  "recent_wins": [<br>    "Boosted client operational efficiency by 25% through custom software automation.",<br>    "Architected ParadoxResume, an ATS-optimized client-side PDF generation platform.",<br>    "Engineered a browser-based encryption tool utilizing the Web Crypto API for zero-transmission privacy.",<br>    "Successfully delivered rapid-prototype software solutions under tight deadlines across 3 major hackathons."<br>  ],<br>  "currently_building": [<br>    "Social Hub Downloader (Serverless Media API)",<br>    "CodeBlog (MDX & Prisma Platform for Developers)",<br>    "Real-Time Computer Vision & Multithreaded Image Processing Engines",<br>    "Full-Stack Finance Analytics Dashboard"<br>  ],<br>  "contact": "surajchauhansurya518@gmail.com"<br>}
+{<br>
+  "engineer": "Suraj Chauhan",<br>
+  "education": "B.E. Electronics & Telecom (Graduating 2027)",<br>
+  "status": "Available for full-time remote roles (40+ hrs/wk)",<br>
+  "portfolio": "paradoxsuraj.netlify.app",<br>
+  "expertise": [<br>
+    "Next.js 15, React 19 & TypeScript",<br>
+    "Node.js, Serverless & BullMQ/Redis",<br>
+    "PostgreSQL, Prisma & Supabase",<br>
+    "AI/LLM Integration (Vercel AI SDK, RAG)",<br>
+    "WebAssembly, Web Crypto API & Solidity"<br>
+  ],<br>
+  "recent_wins": [<br>
+    "Delivered 20+ client web projects end-to-end, from database schema to UI.",<br>
+    "Boosted client operational efficiency by 25% through custom software automation.",<br>
+    "Architected PathweaverAI: 9-phase async AI pipeline with multi-provider LLM orchestration and AES-256-GCM encryption.",<br>
+    "Engineered AlgoJeet Pro: Local-first coding prep platform with WebAssembly & Web Workers covering 3,350+ LeetCode problems."<br>
+  ],<br>
+  "featured_projects": [<br>
+    "ChainProof (Solidity/viem/wagmi file-integrity verifier)",<br>
+    "Paradox ERP (Enterprise dashboard with database-level RLS)",<br>
+    "CodeBlog Pro (Multi-author MDX publishing platform)",<br>
+    "Accessibility Auditor (Playwright + axe-core WCAG 2.2 scanner)"<br>
+  ],<br>
+  "contact": "surajchauhansurya518@gmail.com"<br>
+}
 
 
 ## 🌐 Socials:
